@@ -1,0 +1,16 @@
+#nav-bar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+header {
+        display: flex;
+        justify-content: space-between;
+}
+        
+@media (max-width: 600px) {
+    body {
+        background-color: rgb(170, 131, 131);
+    }
